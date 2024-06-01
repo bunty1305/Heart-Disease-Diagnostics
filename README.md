@@ -26,6 +26,6 @@ The insights derived from this analysis provide valuable information for better 
 
 Feel free to explore the repository for detailed analysis and visualizations. Your feedback and suggestions are welcome!
 
-Connect with me on (LinkedIn, `(https://www.linkedin.com/in/bunty1305/)`) to discuss this project and share insights on data analysis in healthcare!
+Connect with me on [LinkedIn](https://www.linkedin.com/in/bunty1305/) to discuss this project and share insights on data analysis in healthcare!
 
 #DataAnalysis #Healthcare #HeartDisease #DataScience #MachineLearning #PublicHealth #DataVisualization #GitHub #Internship #UnifiedMentor
